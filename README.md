@@ -42,7 +42,7 @@ The solution uses Microsoft's built-in Removable Storage Access policies to bloc
 * Group Policy Objects (GPO)
 
 ---
-
+```
 Enterprise-USB-Device-Restriction-Using-Active-Directory-GPO
 │
 ├── README.md
@@ -99,6 +99,7 @@ Enterprise-USB-Device-Restriction-Using-Active-Directory-GPO
     │
     └── gpresult-verification
         └── 04-gpresult-policy-applied.png
+```
 
 # Security Control Implemented
 
